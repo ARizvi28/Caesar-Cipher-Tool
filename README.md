@@ -1,7 +1,7 @@
 # Caesar Cipher Tool
 A simple, yet effective encryption tool that uses the classic Caesar Cipher algorithm to shift characters in a given text by a specified number of positions.
 
-#What is a Caesar Cipher?
+## What is a Caesar Cipher?
 A Caesar Cipher is a type of substitution cipher where each letter in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on.
 
 ## How to Use the Tool
